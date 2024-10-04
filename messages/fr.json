@@ -1,0 +1,9 @@
+{
+  "HomePage": {
+    "title": "Page d'acceuil",
+    "goTo": "Allez sur la page suivante"
+  },
+  "Student": {
+    "title": "Liste des étudiants"
+  }
+}

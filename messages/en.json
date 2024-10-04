@@ -1,0 +1,9 @@
+{
+  "HomePage": {
+    "title": "HomePage",
+    "goTo": "Go to the about page"
+  },
+  "Student": {
+    "title": "List of students"
+  }
+}
